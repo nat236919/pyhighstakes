@@ -15,11 +15,20 @@ class CardDeck:
     
     def __init__(self) -> None:
         """ Initiate suites and their values """
-        self.deck = {
+        self.standard_cards = {
             'suits': ['clubs', 'diamonds', 'hearts', 'spades'],
             'values': list(range(2, 11)) + ['A', 'J', 'Q', 'K']
         }
-    
+        self.deck = None
+
     def get_deck(self) -> List[Dict[str, int]]:
         """ Get a whole deck of cards """
-        return [{suit: value} for suit in self.deck['suits'] for value in self.deck['values']]
+        self.deck = [{suit: value} for suit in self.standard_cards['suits'] for value in self.standard_cards['values']]
+        return self.deck
+
+    def shuffle(self) -> List[Dict[str, int]]:
+        """ Shuffle a current deck """
+        if not self.deck:
+            self.deck = self.get_deck()
+
+        return sorted(self.deck, key=lambda x: random.random())
