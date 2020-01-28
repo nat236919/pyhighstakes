@@ -7,12 +7,13 @@ DATE: 27-Jan-2020
 # Import libraries
 import random
 from typing import List, Dict, Any
+from modules.blackjack import BlackJack
 
 
 # Set up card decks
 class CardDeck:
     """ Set up a standard deck of cards """
-    
+
     def __init__(self) -> None:
         """ Initiate suites and their values """
         self.standard_cards = {
@@ -32,3 +33,10 @@ class CardDeck:
             self.deck = self.get_deck()
 
         return sorted(self.deck, key=lambda x: random.random())
+
+    def play_blackjack(self) -> None:
+        """ Play BlackJack game """
+        if not self.deck:
+            self.deck = self.shuffle()
+
+        return BlackJack.play(self.deck)
