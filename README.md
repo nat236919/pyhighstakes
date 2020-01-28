@@ -1,10 +1,10 @@
 <p align="center"><img width=45% alt="" src="https://github.com/nat236919/pyhighstakes/blob/master/docs/img/pyhighstakes_logo.png?raw=true"></p>
 
 <p align="center">
-<a href="#"><img alt="" src="https://img.shields.io/github/issues/nat236919/pyhighstakes"></a>
-<a href="#"><img alt="" src="https://img.shields.io/github/forks/nat236919/pyhighstakes"></a>
-<a href="#"><img alt="" src="https://img.shields.io/github/stars/nat236919/pyhighstakes"></a>
-<a href="#"><img alt="" src="https://img.shields.io/github/license/nat236919/pyhighstakes"></a>
+<a href="https://github.com/nat236919/pyhighstakes/issues"><img alt="" src="https://img.shields.io/github/issues/nat236919/pyhighstakes"></a>
+<img alt="" src="https://img.shields.io/github/forks/nat236919/pyhighstakes">
+<img alt="" src="https://img.shields.io/github/stars/nat236919/pyhighstakes">
+<a href="https://github.com/nat236919/pyhighstakes/blob/master/LICENSE"><img alt="" src="https://img.shields.io/github/license/nat236919/pyhighstakes"></a>
 <a href="#"><img alt="" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnat236919%2Fpyhighstakes"></a>
 </p>
 
