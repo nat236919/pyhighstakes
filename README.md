@@ -1,8 +1,11 @@
-<p align="center"><img width=77% alt="" src="https://github.com/nat236919/saltedmd5/blob/master/docs/img/saltedmd5_logo_resized.png?raw=true"></p>
+<p align="center"><img width=77% alt="" src="https://github.com/nat236919/pyhighstakes/blob/master/docs/img/pyhighstakes_logo.png?raw=true"></p>
 
 <p align="center">
-<a href="https://pypi.org/project/saltedmd5/"><img alt="" src="https://img.shields.io/badge/pypi-1.0.7-blue.svg"></a>
-<a href="https://github.com/nat236919/saltedmd5/blob/master/LICENSE"><img alt="" src="https://img.shields.io/pypi/l/saltedmd5"></a>
+<a href="#"><img alt="" src="https://img.shields.io/github/issues/nat236919/pyhighstakes"></a>
+<a href="#"><img alt="" src="https://img.shields.io/github/forks/nat236919/pyhighstakes"></a>
+<a href="#"><img alt="" src="https://img.shields.io/github/stars/nat236919/pyhighstakes"></a>
+<a href="#"><img alt="" src="https://img.shields.io/github/license/nat236919/pyhighstakes"></a>
+<a href="#"><img alt="" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fnat236919%2Fpyhighstakes"></a>
 </p>
 
 <p align="center"><b>To use PyHighStakes:</b></p>
@@ -50,7 +53,7 @@ pip install pyhighstakes
 
 
 ###  Changes
-Please refer to <a href="#">CHANGELOG</a>
+Please refer to <a href="https://github.com/nat236919/pyhighstakes/blob/master/docs/CHANGELOG.md">CHANGELOG</a>
 
 
 ###  Getting Involved
