@@ -1,4 +1,4 @@
-<p align="center"><img width=77% alt="" src="https://github.com/nat236919/pyhighstakes/blob/master/docs/img/pyhighstakes_logo.png?raw=true"></p>
+<p align="center"><img width=77% alt="" src="https://github.com/nat236919/pyhighstakes/blob/master/docs/img/pyhighstakes_logo_resized.png?raw=true"></p>
 
 <p align="center">
 <a href="#"><img alt="" src="https://img.shields.io/github/issues/nat236919/pyhighstakes"></a>
